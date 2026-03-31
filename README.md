@@ -11,9 +11,9 @@ This script detects doublets from filtered_contig_annotations file from the cell
 # Example pipeline run
 The bash wrapper scripts are included in the bash/ directory to create the GEX metadata CSV and run the VDJ doublet script from example data.
 
-Run from the repository root:
-1) bash bash/make_gex_csv.bash
-2) bash bash/run_doublet_example.bash
+Run from the bash root:
+1) bash make_gex_csv.bash
+2) bash run_doublet_example.bash
 
 ## Input files
 TCR input:
